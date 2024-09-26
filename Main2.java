@@ -24,6 +24,6 @@ public class Main2 {
         instructor1.introduceSelf();
         System.out.println("info video :");
         video1.infoVideo();
-
+        System.out.println();
     }
 }
